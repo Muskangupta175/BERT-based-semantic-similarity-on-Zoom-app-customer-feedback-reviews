@@ -1,5 +1,9 @@
 # Text-similarity-classification
 Given a  dataset of consisting of Text-Reason pairs along with labels consisting 1s and 0s. 1s denote the Text-Reason pair are similar and 0 denotes that Text-Reason pair are dissimilar.
+Test file- Evaluation.xlsx
+Dataset with randomly generated words and randomly deleted words dissimilar pairs and similar pairs - Dataset1.xlsx
+Dataset with randomly deleted words dissimilar pairs and similar pairs - Dataset1.xlsx
+
 
 Using BERT pre-trained models and fine tuning on the dataset to predict the labels for the evaluation file.
 
